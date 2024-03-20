@@ -69,7 +69,6 @@ CREATE TABLE `chamados` (
 --
 
 INSERT INTO `chamados` (`id`, `user_id`, `nome_chamado`, `email`, `responsavel`, `chamado`, `banco`, `prioridade`, `created_at`, `updated_at`) VALUES
-(14, 4, 'parcero', NULL, NULL, NULL, 4, 1, '2024-03-15 08:50:26', '2024-03-15 08:50:26'),
 (15, 3, 'dono', NULL, NULL, NULL, 4, 1, '2024-03-15 08:51:34', '2024-03-15 08:51:34'),
 (19, 3, '1', NULL, NULL, NULL, 6, 1, '2024-03-15 09:27:11', '2024-03-15 09:27:11');
 
